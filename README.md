@@ -1,1 +1,2 @@
 # odin-recipes
+#We create a recipe page about 3 deserts to do this Christmas eve, we did basic ol and ul lists for the ingredients and steps, we also add some images to the body and the description of the recipe, on the index page we add the links to the recipes. 
